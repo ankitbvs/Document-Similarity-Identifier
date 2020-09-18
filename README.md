@@ -30,7 +30,7 @@ The wikipedia documents of the below file names are taken as the input files to 
 
 Wikipedia
 
-###Technologies
+### Technologies
 * Python 
 
 ### Type of Data
