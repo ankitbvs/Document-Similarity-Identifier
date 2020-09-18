@@ -58,11 +58,11 @@ Wikipedia
 
 Finally, below are the results of similarity between UIC and rest of the documents - 
 
-Jaccard Similarity
+* Jaccard Similarity
 
 ![alt text](jack.PNG)
 
-Cosine Similarity
+* Cosine Similarity
 
 ![alt text](cos.PNG)
 
