@@ -7,6 +7,9 @@
 * [Technologies](#technologies)
 * [Type of Data](#type-of-data)
 * [Data Pre-processing](#data-pre-processing)
+* [Algorithms Implemented](#algorithms-implemented)
+* [Steps Involved](#steps-involved)
+* [Results and Conclusion](#results-and-conclusion)
 
 ### Introduction
 
@@ -42,4 +45,22 @@ Wikipedia
 ### Algorithms Implemented
 * Jaccard Similarity Function
 * Cosine  Similarity Function
+
+### Steps Involved
+
+* Cleaned the data by tokenizing, removal of stop words and stemming.
+* Applied Jaccard Similarity on the tokenized words in each file
+* Applied Cosine  Similarity on the tokenized words in each file
+
+### Results and Conclusion
+
+Finally, below are the results of similarity between UIC and rest of the documents - 
+
+Jaccard Similarity
+
+
+Cosine Similarity
+
+
+
 
