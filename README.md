@@ -1,5 +1,7 @@
 # Document-Similarity-Identifier
 
+![alt text](sim.PNG)
+
 ### Table of contents
 * [Introduction](#introduction)
 * [Problem Statement](#problem-statement)
@@ -58,9 +60,10 @@ Finally, below are the results of similarity between UIC and rest of the documen
 
 Jaccard Similarity
 
+![alt text](jack.PNG)
 
 Cosine Similarity
 
-
+![alt text](cos.PNG)
 
 
